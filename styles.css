@@ -60,3 +60,29 @@ nav a::before{
 nav a:hover::before{
     width: 100%;
 }
+
+.intro{
+    width: 80%;
+    display: inline-block;
+}
+
+.circular img { 
+    border-radius: 50%;
+    width: 350px;
+    margin-top: 15%;
+    margin-left: 8%;
+    float: left;
+}
+
+.bold-text{
+    font-weight: 600;
+    font-size: 35px;
+    margin-top: 18%;
+    margin-left: 600px;
+}
+
+.intro-text{
+    margin-left: 600px;
+    margin-right: 200px;
+    font-size: 20px;
+}
