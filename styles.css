@@ -86,3 +86,20 @@ nav a:hover::before{
     margin-right: 200px;
     font-size: 20px;
 }
+
+hr.animated{
+    margin-top: 150px;
+    width: 78%;
+    animation: expand 1.5s ease-in-out;
+    height: 0.25px;
+    background-color: black;
+}
+
+@keyframes expand{
+    from {
+        transform: scaleX(0);
+    }
+    to {
+        transform: scaleX(1);
+    }
+}
