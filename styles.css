@@ -103,3 +103,16 @@ hr.animated{
         transform: scaleX(1);
     }
 }
+
+.second-intro h1{
+    margin-top: 6%;
+    margin-left: 11%;
+}
+
+.second-intro p{
+    font-size: 20px;
+    margin-left: 11%;
+    margin-right: 11%;
+    margin-top: 2.25%;
+}
+
