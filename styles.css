@@ -134,3 +134,7 @@ hr.animated{
     height: 35px;
     width: 110px;
 }
+
+.btn #submit:hover{
+    background-color: #3d3d3d;
+}
