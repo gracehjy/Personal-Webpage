@@ -160,3 +160,17 @@ hr.other-animated{
 .btn #submit:hover{
     background-color: #3d3d3d;
 }
+
+.fade-in {
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+}
+  
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+     }
+}
