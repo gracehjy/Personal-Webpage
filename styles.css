@@ -81,6 +81,16 @@ nav a:hover::before{
     margin-left: 600px;
 }
 
+.bold-text-other{
+    width: auto;
+    font-weight: 600;
+    font-size: 35px;
+    margin-top: 18%;
+    margin-left: -8%;
+    display: block;
+    text-align: center;
+}
+
 .intro-text{
     margin-left: 600px;
     margin-right: 200px;
@@ -89,6 +99,14 @@ nav a:hover::before{
 
 hr.animated{
     margin-top: 150px;
+    width: 78%;
+    animation: expand 1.5s ease-in-out;
+    height: 0.25px;
+    background-color: black;
+}
+
+hr.other-animated{
+    margin-top: 100px;
     width: 78%;
     animation: expand 1.5s ease-in-out;
     height: 0.25px;
