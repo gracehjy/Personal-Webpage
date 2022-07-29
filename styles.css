@@ -75,6 +75,8 @@ nav a:hover::before{
     width: 350px;
     margin-top: 15%;
     margin-left: 8%;
+    margin-right: 5%;
+    margin-bottom: 3%;
     float: left;
 }
 
@@ -82,7 +84,8 @@ nav a:hover::before{
     font-weight: 600;
     font-size: 35px;
     margin-top: 18%;
-    margin-left: 600px;
+    margin-left: 47%;
+    margin-right: 17%;
 }
 
 .bold-text-other{
@@ -96,8 +99,8 @@ nav a:hover::before{
 }
 
 .intro-text{
-    margin-left: 600px;
-    margin-right: 200px;
+    margin-left: 47%;
+    margin-right: 17%;
     font-size: 20px;
 }
 
