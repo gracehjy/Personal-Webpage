@@ -86,7 +86,7 @@ nav a:hover::before{
     font-weight: 600;
     font-size: 35px;
     margin-top: 18%;
-    margin-left: -8%;
+    margin-left: -10%;
     display: block;
     text-align: center;
 }
