@@ -83,7 +83,7 @@ nav a:hover::before{
 .bold-text{
     font-weight: 600;
     font-size: 35px;
-    margin-top: 18%;
+    margin-top: 15%;
     margin-left: 47%;
     margin-right: 17%;
 }
@@ -112,6 +112,14 @@ hr.animated{
     background-color: black;
 }
 
+hr.animated2{
+    margin-top: 80px;
+    width: 78%;
+    animation: expand 1.5s ease-in-out;
+    height: 0.25px;
+    background-color: black;
+}
+
 hr.other-animated{
     margin-top: 100px;
     width: 78%;
@@ -130,7 +138,11 @@ hr.other-animated{
 }
 
 .second-intro h1{
-    margin-top: 6%;
+    margin-top: 3%;
+    margin-left: 11%;
+}
+
+.second-intro h4{
     margin-left: 11%;
 }
 
@@ -165,7 +177,7 @@ hr.other-animated{
 }
 
 .fade-in {
-    animation: fadeInAnimation ease 3s;
+    animation: fadeInAnimation ease 2.5s;
     animation-iteration-count: 1;
 }
   
